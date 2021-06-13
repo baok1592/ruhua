@@ -9,7 +9,7 @@
 
 匆匆上线，还有很多不完善，疯狂迭代中...
 
-##### 手册： https://www.yuque.com/u158056/bek6g2
+##### 手册： https://www.kancloud.cn/baok1592/kfwd/2257080
 ##### 官网： http://www.ruhuashop.com 
 ##### QQ群： 728615087
 ##### 前端： https://github.com/baok1592/ruhua_vue  
